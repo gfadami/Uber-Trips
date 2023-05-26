@@ -10,6 +10,6 @@ Análise dos meus dados de viagens com Uber.
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://i.imgur.com/d0eg5hT.png)
 
-## Detalhes do projeto
+# Detalhes do projeto
 
-# Dashboard em desenvolvimento
+## Dashboard em desenvolvimento
