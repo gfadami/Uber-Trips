@@ -8,9 +8,5 @@ Análise dos meus dados de viagens com Uber.
 | :label: Tecnologias | python, pandas, powerbi, figma, jupyter notebook
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://imgur.com/G1KUfle.png)
+![](https://imgur.com/G1KUfle.png#vitrinedev)
 ![](https://imgur.com/jk3ez55.png)
-
-# Detalhes do projeto
-
-## Dashboard em desenvolvimento
